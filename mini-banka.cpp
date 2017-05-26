@@ -3,17 +3,7 @@ using namespace std;
 
 int main()
 {
-<<<<<<< HEAD
-    // ispis glavnog izbornika
-    cout << "Glavni izbornik" << endl;
-    cout << "1. Unos nove osobe" << endl;
-    cout << "2. Ispisi podatke" << endl;
-    cout << "3. pretraga prema racunu" << endl;
-    cout << "4. Pretraga prema prezimenu" << endl;
-    cout << "5. Ispisi sortirano" << endl;
-=======
     int brojKlijenata = 0;
->>>>>>> 8de8b0682c9b8a2053249c2fbdb3c7cd9f83edb4
     int izbor;
     int MAX = 50;
     string prezimeIme[MAX];
