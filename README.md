@@ -1,11 +1,11 @@
 # 13vjezba
 ## Tehmeha 13. vježba
-- na početku napravite “fork” projekta “13vjezba” s GitHub-ovog korisničkog računa "ZDamijan" u svoj Github korisnički račun
-- pomoću GitHub Desktop-a napravite "clone" tog projekta na svoje računalo i kreirajte novu mapu "13vjezba-Prezime" i u njoj napišite C++ program “mini-banka.cpp” koji ima niže navedene funkcionalnosti 
+- na početku pomoću linka na stranici “tehmeha” prijavite se na “GitHub Classroom Assignment” i tako će te kreirati novi repozitorij
+- pomoću GitHub Desktop-a napravite "clone" tog repozitorija na svoje računalo i u datoteci “tel-imenik.cpp” napišite C++ program koji ima niže navedene funkcionalnosti 
 - nakon svake implementirane funkcionalnosti napraviti “commit” (u opisu prepisati tekst pod odgovarajućim brojem) 
-- na kraju potrebno je sinkronizirati lokalni i udaljeni repozitorij i napraviti "Pull Request" (u opisu napisati 13. vježba, ime prezime) na ishodišni repozitorij na računu "ZDamijan"                                                                                                        
+- na kraju potrebno je sinkronizirati lokalni i udaljeni repozitorij                                                                                                    
 <br/><b>Mini banka</b> - implementirajte sljedeće funkcionalnosti:	
-1. Korisniku se prikazuje glavni izbornik (unos nove osoba, ispiši sve podatke, pretraga prema računu, pretraga prema prezimenu i imenu, ispiši sortirano prema prezimenu i imenu).
+1. Korisniku se prikazuje glavni izbornik (unos nove osoba, ispiši sve podatke, pretraga prema računu, pretraga prema prezimenu i imenu, ispiši sortirano prema prezimenu i imenu, izlaz iz programa).
 2. Korisnik unosi novu osobu u banku:
   <br/> - broj racuna - unsigned long long int, pr. 3252455656
   <br/> - prezime i ime - string
